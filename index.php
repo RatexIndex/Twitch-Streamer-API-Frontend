@@ -16,7 +16,7 @@
 	<script type="text/javascript" src="static/js/main.js?v015455"></script>
 	<br><br>
 	<center><div style="width:max-content;" class="alert alert-success" role="alert">
-	  <p style="font-weight: bold;">© All rights reserved 2021. Made with 💖 by <a href="https://github.com/RatexIndex" target="_blank" style="text-decoration:none; color:#3b860c; font-weight: bold;">DannyEF</a> & <a href="https://github.com/Siddhartt" target="_blank" style="text-decoration:none; color:#3b860c; font-weight: bold;">Siddhartt</a>.</p>
+	  <p style="font-weight: bold;">© All rights reserved 2021. Made with 💖 by <a href="https://github.com/RatexIndex" target="_blank" style="text-decoration:none; color:#3b860c; font-weight: bold;">DannyEF</a> & <a href="https://github.com/Siddhart" target="_blank" style="text-decoration:none; color:#3b860c; font-weight: bold;">Siddhart</a>.</p>
 	</div></center>
 	
 
