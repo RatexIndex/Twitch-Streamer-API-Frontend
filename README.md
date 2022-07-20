@@ -3,7 +3,7 @@
 The frontend for the Twitch Streamer API [Twitch Streamer API Backend](https://github.com/Siddhartt/Twitch-Streamer-Api).
 
 You wanna see a **Live Demo**?
-Here is my own styled one [https://live.twitchfriends.com](https://live.twitchfriends.com)
+Here is my own styled one [https://live.ratexindex.com](https://live.ratexindex.com)
 
 ![alt text](https://s20.directupload.net/images/210511/8wm2ber6.png)
   
